@@ -13,7 +13,7 @@ Full-Stack Web Developer certified from The Coding Bootcamp at The University of
 - 🌱 I’m currently learning python
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/crystal-a-6ab60b231/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a problem solver by nature, who loves learning the why behind all things technical.
+- ⚡ Fun fact: I taught my pet cat to sit, we are currently working on shake. 
 
 ---
 
