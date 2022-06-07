@@ -47,6 +47,7 @@ Full-Stack Web Developer certified from The Coding Bootcamp at The University of
          alt="Vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-worldmark.svg" title="Webpack"
          alt="Webpack" width="40" height="40"/>&nbsp;
+![image](https://user-images.githubusercontent.com/81876258/172497763-c2946c60-61b5-408d-95d4-ba729ddf447b.png)
 
   
 
