@@ -27,6 +27,27 @@ Full-Stack Web Developer certified from The Coding Bootcamp at The University of
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express/express-original-worldmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-worldmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-worldmark.svg" title="Github"
+         alt="Github" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-worldmark.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-worldmark.svg" title="JQuery"
+         alt="JQuery" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-worldmark.svg" title="Mongodb"
+         alt="Mongdb" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-worldmark.svg" title="Npm"
+         alt="Npm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-worldmark.svg" title="Python"
+         alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-worldmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-worldmark.svg" title="Yarn"
+         alt="Yarn" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-worldmark.svg" title="Vscode"
+         alt="Vscode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-worldmark.svg" title="Webpack"
+         alt="Webpack" width="40" height="40"/>&nbsp;
+
   
 
   
