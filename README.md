@@ -13,7 +13,7 @@ Full-Stack Web Developer certified from The Coding Bootcamp at The University of
 - 🌱 I’m currently learning python
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/crystal-a-6ab60b231/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm the owner of Austin Lesbians page on [![Instagram Badge](![image](https://github.com/user-attachments/assets/6544e06a-6ce3-456e-bde8-fe1db975fbaf)
+- ⚡ Fun fact: I'm the owner of Austin Lesbians page on [![image](https://github.com/user-attachments/assets/6544e06a-6ce3-456e-bde8-fe1db975fbaf)](https://www.instagram.com/austinlesbians/?next=%2F&hl=en)
 
 
 ---
